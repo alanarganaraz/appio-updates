@@ -1,5 +1,14 @@
 # Detalle de updates
 
+## RELEASE v1.0.10
+📅 19/05/2026
+
+- Skill /release automatizada: genera, empaqueta y publica en un solo comando
+- Nuevo ícono oficial de Appio POS
+- La app se abre automáticamente al terminar de actualizar
+
+---
+
 ## RELEASE v1.0.9
 📅 19/05/2026
 

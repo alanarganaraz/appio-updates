@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "6FB9F355FB621136F555F78B9D46227958AC94B38236B238EEE69CA06BDD72EF",
-  "notas": "- Nuevo ícono de la aplicación.\n- La app se abre automáticamente al terminar de actualizar.\n- Nombre de versión correcto en Panel de control."
+  "sha256": "8F3660EDE50D546D1649CFE53D9BF5245939162A282F839DBB622D27F1DB1D57",
+  "notas": "- Skill /release automatizada: genera, empaqueta y publica en un solo comando.\n- Nuevo ícono oficial de Appio POS.\n- La app se abre automáticamente al terminar de actualizar."
 }
