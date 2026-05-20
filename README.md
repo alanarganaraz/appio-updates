@@ -1,21 +1,27 @@
 # Detalle de updates
 
-## RELEASE v1.0.2
+## RELEASE v1.0.7
 📅 19/05/2026
 
-- Test de actualización automática
+- Chequeo de actualización.
 
-## RELEASE v1.0.3
+## RELEASE v1.0.6
 📅 19/05/2026
 
-- Test de actualización automática v1.0.3
+- Boton de actualización en la parte de configuración.
 
 ## RELEASE v1.0.5
 📅 19/05/2026
 
 - Test de actualización automática v1.0.5
 
-## RELEASE v1.0.6
+## RELEASE v1.0.3
 📅 19/05/2026
 
-- Boton de actualización en la parte de configuración.
+- Test de actualización automática v1.0.3
+
+## RELEASE v1.0.2
+📅 19/05/2026
+
+- Test de actualización automática
+

@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "1612F8089FFDFF2BC5A29974AEE780DD2390F43BF8AB503C940507ED6D397C97",
-  "notas": "- Test de actualización manual desde Configuración."
+  "sha256": "9E971D070AE4DADB91FA7CA7AB8E558170603C22D5DF08AD6C03EEF105DC8A91",
+  "notas": "- Test de actualización desde v1.0.6."
 }
