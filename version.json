@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "36FE414F794ACEEC45B28CCEDD2341AE48539E21F92DE213322BFCA6B4640399",
-  "notas": "- Test de actualización automática."
+  "sha256": "5435C09335BDDB82AC60C7E924A46BF5BFA941E4F66726D9AEB396260EFE489C",
+  "notas": "- Test de actualización automática desde v1.0.2."
 }
