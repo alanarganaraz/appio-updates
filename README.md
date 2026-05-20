@@ -1,5 +1,14 @@
 # Detalle de updates
 
+## RELEASE v1.0.11
+📅 19/05/2026
+
+- Diálogo de actualización rediseñado: más claro y moderno.
+- Corrección de saltos de línea en las notas de versión.
+- Muestra tu versión actual y la nueva versión de forma destacada.
+
+---
+
 ## RELEASE v1.0.10
 📅 19/05/2026
 
