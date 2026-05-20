@@ -1,5 +1,14 @@
 # Detalle de updates
 
+## RELEASE v1.0.12
+📅 19/05/2026
+
+- Chequeo de salto de línea en notas de versión.
+- Actualización automática mejorada.
+- Arreglo de bugs generales.
+
+---
+
 ## RELEASE v1.0.11
 📅 19/05/2026
 

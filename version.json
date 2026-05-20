@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "E5482AB59A80863B66524AE0BD48617F9485679C57C0D48F5050E91E3207A799",
-  "notas": "- Diálogo de actualización rediseñado: más claro y moderno.\n- Corrección de saltos de línea en las notas de versión.\n- Muestra tu versión actual y la nueva versión de forma destacada."
+  "sha256": "F0E9B70FF516A7EBAE72C7F32C17F2A81E346EDE2B409C4DD1DF8F7F05C9702B",
+  "notas": "- Chequeo de salto de línea en notas de versión.\n- Actualización automática mejorada.\n- Arreglo de bugs generales."
 }
