@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "CB94CEBEDAD9B9BCAA72997F7DBC118F8638EC9AC0C0931D3F768C557AE565C5",
-  "notas": "- Dialog de actualización más grande para mejor lectura de novedades.\n- Fix caché en chequeo de versiones (raw.githubusercontent).\n- Botón de actualización manual en Configuración."
+  "sha256": "6FB9F355FB621136F555F78B9D46227958AC94B38236B238EEE69CA06BDD72EF",
+  "notas": "- Nuevo ícono de la aplicación.\n- La app se abre automáticamente al terminar de actualizar.\n- Nombre de versión correcto en Panel de control."
 }

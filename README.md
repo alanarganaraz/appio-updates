@@ -1,5 +1,12 @@
 # Detalle de updates
 
+## RELEASE v1.0.9
+📅 19/05/2026
+
+- Nuevo ícono oficial de Appio POS
+- App se abre automáticamente al terminar de instalar/actualizar
+- Nombre correcto en Panel de control (Appio POS v1.0.9)
+
 ## RELEASE v1.0.8
 📅 19/05/2026
 
