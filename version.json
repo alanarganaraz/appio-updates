@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
+  "version": "1.1.0",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "DDFBB7F7E6EF97D754FA1DD2A750D99944BA17E3AB5F9BF011BC3554BB81F685",
-  "notas": "- Fix desconexión: la app entra normalmente aunque Supabase esté lento o caído (período de gracia 7 días).\n- Chequeo de versión al iniciar: actualización obligatoria si cambia el número mayor, sugerida si cambia el número del medio.\n- Pantalla de activación de licencia rediseñada: más grande y clara.\n- Arreglo de bugs generales."
+  "sha256": "89A19F8F7EACBF1DAF831F5EE231A353C39706D6A4E1F79EA38453EA0B411E22",
+  "notas": "- Términos y Condiciones integrados en la activación de licencia.\n- Botón de búsqueda de actualizaciones en la pantalla de activación.\n- UI responsive: funciona correctamente en resoluciones 1024x768 y superiores.\n- TopBar compacto en pantallas pequeñas.\n- Fuentes escaladas automáticamente según resolución de pantalla."
 }

@@ -1,5 +1,16 @@
 # Detalle de updates
 
+## RELEASE v1.1.0
+📅 26/05/2026
+
+- Términos y Condiciones integrados en la pantalla de activación de licencia.
+- Botón de búsqueda de actualizaciones disponible en la pantalla de activación.
+- UI responsive: funciona correctamente en resoluciones 1024x768 y superiores.
+- TopBar compacto en pantallas pequeñas.
+- Fuentes escaladas automáticamente según resolución de pantalla.
+
+---
+
 ## RELEASE v1.0.13
 📅 26/05/2026
 
