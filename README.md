@@ -1,5 +1,15 @@
 # Detalle de updates
 
+## RELEASE v1.0.13
+📅 26/05/2026
+
+- Fix desconexión: la app entra normalmente aunque Supabase esté lento o caído (período de gracia 7 días).
+- Chequeo de versión al iniciar: actualización obligatoria si cambia el número mayor, sugerida si cambia el número del medio.
+- Pantalla de activación de licencia rediseñada: más grande y clara.
+- Arreglo de bugs generales.
+
+---
+
 ## RELEASE v1.0.12
 📅 19/05/2026
 
