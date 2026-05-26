@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "89A19F8F7EACBF1DAF831F5EE231A353C39706D6A4E1F79EA38453EA0B411E22",
-  "notas": "- Términos y Condiciones integrados en la activación de licencia.\n- Botón de búsqueda de actualizaciones en la pantalla de activación.\n- UI responsive: funciona correctamente en resoluciones 1024x768 y superiores.\n- TopBar compacto en pantallas pequeñas.\n- Fuentes escaladas automáticamente según resolución de pantalla."
+  "sha256": "B4A88CF920D5FDB7CD026EA1609B841EFAAD6897BC8112F7E9AC640A4822F4AD",
+  "notas": "- TopBar: iconos y textos de navegación en una sola línea horizontal.\n- Ventas: TOTAL/SUBTOTAL/IMPUESTO ya no se cortan.\n- Historial: botones «Hoy» y «Este mes» más anchos y con más espacio vertical.\n- Productos: el encabezado cambia según el tab activo (Productos vs Por Peso).\n- Caja: Egreso más separado del Ingreso, más espacio entre registro y movimientos."
 }

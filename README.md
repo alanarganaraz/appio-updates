@@ -1,5 +1,16 @@
 # Detalle de updates
 
+## RELEASE v1.1.1
+📅 26/05/2026
+
+- TopBar: iconos y textos de navegación en una sola línea horizontal.
+- Ventas: TOTAL/SUBTOTAL/IMPUESTO ya no se cortan — más espacio en el panel inferior.
+- Historial: botones «Hoy» y «Este mes» más anchos y con más espacio vertical.
+- Productos: el encabezado cambia según el tab activo (Productos vs Por Peso).
+- Caja: Egreso más separado del Ingreso, más espacio entre registro y movimientos del día.
+
+---
+
 ## RELEASE v1.1.0
 📅 26/05/2026
 
