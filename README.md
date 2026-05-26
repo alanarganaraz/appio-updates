@@ -1,5 +1,15 @@
 # Detalle de updates
 
+## RELEASE v1.1.2
+📅 26/05/2026
+
+- Config: botón «Guardar cambios» movido debajo de la sección de impresora.
+- Config: título «Configuración» ya no se corta en el header.
+- Compras: botón «Guardar compra» correctamente posicionado en el footer.
+- Compras: filtros «Filtrar», «Hoy» y «Este mes» más anchos y visibles.
+
+---
+
 ## RELEASE v1.1.1
 📅 26/05/2026
 
