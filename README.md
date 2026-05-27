@@ -1,5 +1,14 @@
 # Detalle de updates
 
+## RELEASE v1.1.3
+📅 26/05/2026
+
+- Seguridad: la clave de licencia y el período de gracia ahora se guardan cifrados con DPAPI.
+- La base de datos ya no muestra datos sensibles en plain text.
+- Migración automática: instalaciones previas se cifran al primer arranque.
+
+---
+
 ## RELEASE v1.1.2
 📅 26/05/2026
 
