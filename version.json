@@ -1,6 +1,6 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "97EE5FD7F99FD917D9D195E28781B506A7CEF1F6C3911EA8267798FDB8708822",
-  "notas": "- Seguridad: la clave de licencia y el período de gracia ahora se guardan cifrados con DPAPI.\n- La base de datos ya no muestra datos sensibles en plain text.\n- Migración automática: instalaciones previas se cifran al iniciar."
+  "sha256": "71B09AA86C1B31070E4F1ABCC65106BB2DD266D798C261E317B2C939B35D80D4",
+  "notas": "- Productos por Peso: buscador en tiempo real para filtrar productos KG."
 }

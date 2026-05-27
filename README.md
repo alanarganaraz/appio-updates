@@ -1,5 +1,12 @@
 # Detalle de updates
 
+## RELEASE v1.1.4
+📅 26/05/2026
+
+- Productos por Peso: buscador en tiempo real para filtrar productos KG.
+
+---
+
 ## RELEASE v1.1.3
 📅 26/05/2026
 
