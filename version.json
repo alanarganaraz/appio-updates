@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "71B09AA86C1B31070E4F1ABCC65106BB2DD266D798C261E317B2C939B35D80D4",
-  "notas": "- Prueba de actualización obligatoria."
+  "sha256": "C92AAD686E605D9B028DCA4415ED878B769B73BAA95F61B979DFFC5A1BA3581C",
+  "notas": "- Buscador en tiempo real en el tab Productos por Peso.\n- Mejoras de seguridad: licencia cifrada con DPAPI.\n- UI responsive y mejoras generales de interfaz."
 }

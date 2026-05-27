@@ -1,5 +1,14 @@
 # Detalle de updates
 
+## RELEASE v2.0.0
+📅 26/05/2026
+
+- Buscador en tiempo real en el tab Productos por Peso.
+- Mejoras de seguridad: licencia cifrada con DPAPI.
+- UI responsive y mejoras generales de interfaz.
+
+---
+
 ## RELEASE v1.1.4
 📅 26/05/2026
 
