@@ -1,5 +1,12 @@
 # Detalle de updates
 
+## RELEASE v2.1.0
+📅 26/05/2026
+
+- Mejoras en seguridad y arreglo de bugs.
+
+---
+
 ## RELEASE v2.0.0
 📅 26/05/2026
 
