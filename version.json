@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "4449BDCAC02589B32516B54DA2D84487EEC54D7155555E472BA001EF15CE0BFF",
-  "notas": "- Mejoras en seguridad y arreglo de bugs."
+    "notas":  "- Removido cálculo de impuesto en carrito de ventas.",
+    "url":  "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
+    "version":  "2.1.1",
+    "sha256":  "4D2BA9F38907883AE73B9C55A3D8D34E4C20F3C386E437ABF6FF039A7D909A15"
 }
