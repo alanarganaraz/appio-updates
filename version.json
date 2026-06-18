@@ -1,6 +1,6 @@
 {
-    "notas":  "- Removido cálculo de impuesto en carrito de ventas.",
+    "notas":  "- Removido subtotal del carrito de ventas. UI más limpia.",
     "url":  "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-    "version":  "2.1.1",
-    "sha256":  "4D2BA9F38907883AE73B9C55A3D8D34E4C20F3C386E437ABF6FF039A7D909A15"
+    "version":  "2.1.2",
+    "sha256":  "F5A3025DCD0890D37B3ACFD40AF4074B10FC63D9D7CD06B505E0A5A1360F0D4A"
 }
