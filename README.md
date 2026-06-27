@@ -1,5 +1,19 @@
 # Detalle de updates
 
+## RELEASE v2.1.3
+📅 26/06/2026
+
+- Huevos: nuevos precios por media docena y docena, cálculo automático del mejor combo y ganancia en el reporte.
+- Por Peso: costo por kg, descuentos por peso y ganancia correcta.
+- Productos: alta rápida escaneando un código que no existe.
+- Ventas: el escáner toma el producto al primer intento y avisa si no existe.
+- Reportes: los más vendidos ahora incluyen huevos y por peso.
+- La app ahora se abre una sola vez (sin duplicados).
+- Términos y Condiciones disponibles en Configuración.
+- Mejoras visuales en los filtros de fecha.
+
+---
+
 ## RELEASE v2.1.0
 📅 26/05/2026
 
