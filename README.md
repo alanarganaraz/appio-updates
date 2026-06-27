@@ -1,5 +1,20 @@
 # Detalle de updates
 
+## RELEASE v3.0.0
+📅 26/06/2026
+
+- Productos por peso con costo y descuentos por gramaje.
+- Huevos con precios por unidad, media docena, docena y maple.
+- Ganancia de huevos y por peso reflejada en los reportes.
+- Más vendidos ahora incluye huevos y productos por peso.
+- Alta rápida de productos escaneando un código nuevo.
+- Escáner más confiable en la pantalla de ventas.
+- La app se abre una sola vez.
+- Términos y Condiciones en Configuración.
+- Mejoras visuales y correcciones generales.
+
+---
+
 ## RELEASE v2.1.4
 📅 26/06/2026
 

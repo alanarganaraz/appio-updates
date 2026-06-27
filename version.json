@@ -1,6 +1,6 @@
 {
-  "version": "2.1.4",
+  "version": "3.0.0",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "B3DC11E4E2A9634DA7F95A9CF64F33D0185459D9BB9C63EC1146140FDEE336A2",
-  "notas": "- Corregido: al eliminar un producto, su nombre queda libre para volver a usarlo.\n- Términos y Condiciones ahora muestran la versión actual de la app."
+  "sha256": "F2998691F08DB0006A933C570C189882C776FA1FC3F7435BC8E97F3476207056",
+  "notas": "- Productos por peso con costo y descuentos por gramaje.\n- Huevos con precios por unidad, media docena, docena y maple.\n- Ganancia de huevos y por peso reflejada en los reportes.\n- Más vendidos ahora incluye huevos y productos por peso.\n- Alta rápida de productos escaneando un código nuevo.\n- Escáner más confiable en la pantalla de ventas.\n- La app se abre una sola vez.\n- Términos y Condiciones en Configuración.\n- Mejoras visuales y correcciones generales."
 }
