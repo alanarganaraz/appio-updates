@@ -1,6 +1,6 @@
 {
-  "version": "2.1.3",
+  "version": "2.1.4",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "4322AA8E44D48A00A0FABA303C7CC6B3D06693832FB8015BF09C8D80ACF655CD",
-  "notas": "- Huevos: nuevos precios por media docena y docena, cálculo automático del mejor combo y ganancia en el reporte.\n- Por Peso: costo por kg, descuentos por peso y ganancia correcta.\n- Productos: alta rápida escaneando un código que no existe.\n- Ventas: el escáner toma el producto al primer intento y avisa si no existe.\n- Reportes: los más vendidos ahora incluyen huevos y por peso.\n- La app ahora se abre una sola vez (sin duplicados).\n- Términos y Condiciones disponibles en Configuración.\n- Mejoras visuales en los filtros de fecha."
+  "sha256": "B3DC11E4E2A9634DA7F95A9CF64F33D0185459D9BB9C63EC1146140FDEE336A2",
+  "notas": "- Corregido: al eliminar un producto, su nombre queda libre para volver a usarlo.\n- Términos y Condiciones ahora muestran la versión actual de la app."
 }

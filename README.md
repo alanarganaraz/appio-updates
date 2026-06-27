@@ -1,5 +1,13 @@
 # Detalle de updates
 
+## RELEASE v2.1.4
+📅 26/06/2026
+
+- Corregido: al eliminar un producto, su nombre queda libre para volver a usarlo.
+- Términos y Condiciones ahora muestran la versión actual de la app.
+
+---
+
 ## RELEASE v2.1.3
 📅 26/06/2026
 
