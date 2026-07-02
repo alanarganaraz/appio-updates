@@ -1,5 +1,14 @@
 # Detalle de updates
 
+## RELEASE v6.0.1
+📅 02/07/2026
+
+- Plan FULL: nuevo botón "Hacer copia ahora" en Configuración para respaldar cuando quieras.
+- Mejoras en el respaldo en la nube.
+- Correcciones menores.
+
+---
+
 ## RELEASE v6.0.0
 📅 02/07/2026
 
