@@ -1,6 +1,6 @@
 {
-  "version": "5.0.1",
+  "version": "6.0.0",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "0A20CCD99CED5568C11CB04B0C0DD640A61763958F25DAB3C223D0C91BD3A860",
-  "notas": "- Backup en la nube (plan FULL): corregido y funcionando.\n- Mejoras menores."
+  "sha256": "CB7BD244CA3C24068FD4D13B451DE60304563C8288CEA638C0633D6D6B1FE3AC",
+  "notas": "- Backup en la nube (plan FULL) funcionando.\n- Términos y Condiciones actualizados: respaldo solo para plan Premium (uso exclusivo de resguardo) y precios publicados en el sitio web oficial.\n- Mejoras de estabilidad."
 }

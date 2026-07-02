@@ -1,5 +1,15 @@
 # Detalle de updates
 
+## RELEASE v6.0.0
+📅 02/07/2026
+
+- Backup en la nube (plan FULL) funcionando.
+- Términos y Condiciones actualizados: el respaldo es solo para plan Premium y con uso exclusivo de resguardo (los datos no se usan para ningún otro fin).
+- Precios y planes publicados en el sitio web oficial (referencia dinámica).
+- Mejoras de estabilidad.
+
+---
+
 ## RELEASE v5.0.1
 📅 02/07/2026
 
