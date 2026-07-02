@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appio POS — Sistema de gestión para tu comercio</title>
+<meta name="description" content="Appio POS: ventas rápidas, control de stock, fiado, venta por peso y más. El sistema para tu almacén, kiosco o comercio.">
+<style>
+  :root{
+    --bg:#0d0d18; --card:#16161f; --card2:#1d1d2b; --border:#2c2c44;
+    --text:#e6e6f0; --muted:#9a9ab5; --purple:#8b5cf6; --purpleD:#6d28d9;
+    --green:#22c55e; --blue:#3b82f6; --amber:#fb923c;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;font-family:'Segoe UI',system-ui,sans-serif}
+  body{background:var(--bg);color:var(--text);line-height:1.6}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  header{padding:22px 0;border-bottom:1px solid var(--border);position:sticky;top:0;background:rgba(13,13,24,.9);backdrop-filter:blur(6px);z-index:10}
+  header .wrap{display:flex;align-items:center;gap:12px}
+  header img{width:38px;height:38px;border-radius:8px}
+  header .name{font-size:20px;font-weight:700}
+  header .cta{margin-left:auto;background:var(--green);color:#fff;padding:9px 18px;border-radius:8px;font-weight:600;font-size:14px}
+  .hero{text-align:center;padding:70px 0 50px}
+  .hero img{width:96px;height:96px;border-radius:20px;margin-bottom:20px}
+  .hero h1{font-size:40px;font-weight:800;line-height:1.15;margin-bottom:16px}
+  .hero h1 span{color:var(--purple)}
+  .hero p{font-size:18px;color:var(--muted);max-width:620px;margin:0 auto 26px}
+  .btn{display:inline-block;background:var(--green);color:#fff;padding:14px 30px;border-radius:10px;font-weight:700;font-size:16px}
+  .btn.alt{background:var(--card2);border:1px solid var(--border);margin-left:10px}
+  .section{padding:52px 0}
+  .section h2{font-size:28px;font-weight:700;text-align:center;margin-bottom:8px}
+  .section .sub{text-align:center;color:var(--muted);margin-bottom:36px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+  .feat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:22px}
+  .feat .ico{font-size:26px;margin-bottom:10px}
+  .feat h3{font-size:16px;font-weight:700;margin-bottom:5px}
+  .feat p{font-size:14px;color:var(--muted)}
+  .planwrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;max-width:760px;margin:0 auto}
+  .plan{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:28px}
+  .plan.top{border:2px solid var(--purple);position:relative}
+  .plan .badge{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--purple);color:#fff;font-size:12px;font-weight:700;padding:5px 14px;border-radius:20px}
+  .plan h3{font-size:20px;font-weight:700;margin-bottom:4px}
+  .plan .price{font-size:34px;font-weight:800;margin:10px 0 2px}
+  .plan .price small{font-size:15px;color:var(--muted);font-weight:500}
+  .plan ul{list-style:none;margin-top:18px}
+  .plan li{padding:7px 0;font-size:14.5px;padding-left:26px;position:relative}
+  .plan li:before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:700}
+  .licencia{background:linear-gradient(90deg,var(--purpleD),var(--purple));border-radius:16px;padding:30px;text-align:center;max-width:760px;margin:0 auto 26px}
+  .licencia h3{font-size:22px;font-weight:700}
+  .licencia .price{font-size:40px;font-weight:800;margin:6px 0}
+  .licencia p{color:#e8e0ff;font-size:15px}
+  footer{border-top:1px solid var(--border);padding:40px 0;text-align:center;color:var(--muted);font-size:14px}
+  footer a{color:var(--green);font-weight:600}
+  .note{text-align:center;color:var(--muted);font-size:13px;margin-top:22px}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <img src="appio_logo.png" alt="Appio POS">
+    <span class="name">Appio POS</span>
+    <a class="cta" href="#contacto">Consultar</a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <img src="appio_logo.png" alt="Appio POS">
+    <h1>El sistema que <span>ordena tu negocio</span></h1>
+    <p>Ventas rápidas, control de stock, fiado, venta por peso y mucho más. Simple, en español y pensado para tu comercio.</p>
+    <a class="btn" href="#planes">Ver planes</a>
+    <a class="btn alt" href="#contacto">Pedir una demo</a>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2>Todo lo que necesitás, en un solo lugar</h2>
+    <p class="sub">Pensado para almacenes, kioscos, fiambrerías, verdulerías y más.</p>
+    <div class="grid">
+      <div class="feat"><div class="ico">🛒</div><h3>Ventas rápidas</h3><p>Escaneá y cobrás en segundos. Efectivo, transferencia, tarjeta o QR.</p></div>
+      <div class="feat"><div class="ico">📦</div><h3>Control de stock</h3><p>El stock se actualiza solo con cada venta y compra. Alertas de stock bajo.</p></div>
+      <div class="feat"><div class="ico">🧾</div><h3>Fiado (cuenta corriente)</h3><p>Anotá lo que se llevan tus clientes y registrá los pagos. Con recordatorio por WhatsApp.</p></div>
+      <div class="feat"><div class="ico">⚖️</div><h3>Venta por peso</h3><p>Ideal para fiambrería, verdulería y carnicería. Con descuentos por gramaje.</p></div>
+      <div class="feat"><div class="ico">🥚</div><h3>Huevos y granja</h3><p>Precios por unidad, media docena, docena y maple. Cálculo automático.</p></div>
+      <div class="feat"><div class="ico">🏷️</div><h3>Promociones</h3><p>Ofertas automáticas por cantidad (2x1, 3x2). Se aplican solas.</p></div>
+      <div class="feat"><div class="ico">🚚</div><h3>Compras a proveedores</h3><p>Cargá mercadería, pagá al contado o en cuotas, y controlá lo que debés.</p></div>
+      <div class="feat"><div class="ico">📊</div><h3>Reportes claros</h3><p>Ganancias, más vendidos, caja del día y stock bajo. Todo a la vista.</p></div>
+      <div class="feat"><div class="ico">🔄</div><h3>Actualizaciones</h3><p>El sistema se actualiza solo con las últimas mejoras.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="planes">
+  <div class="wrap">
+    <h2>Precios</h2>
+    <p class="sub">Una licencia para siempre + el plan de soporte que elijas.</p>
+
+    <div class="licencia">
+      <h3>Licencia + Equipo</h3>
+      <div class="price">$300.000</div>
+      <p>Pago único · Incluye instalación, capacitación, manual e <b>impresora + lector de código de barras</b>.</p>
+    </div>
+
+    <div class="planwrap">
+      <div class="plan">
+        <h3>Plan Básico</h3>
+        <div class="price">$10.000 <small>/ mes</small></div>
+        <ul>
+          <li>Actualizaciones del sistema</li>
+          <li>Corrección de errores</li>
+          <li>Soporte por consultas de fallas</li>
+        </ul>
+      </div>
+      <div class="plan top">
+        <div class="badge">El más elegido</div>
+        <h3>Plan Full</h3>
+        <div class="price">$50.000 <small>/ mes</small></div>
+        <ul>
+          <li>Todo lo del plan Básico</li>
+          <li>Soporte prioritario ilimitado</li>
+          <li>Soporte remoto (entramos a tu PC)</li>
+          <li>Backup automático en la nube</li>
+          <li>Reinstalación gratis las veces que necesites</li>
+          <li>Capacitación de empleados sin costo</li>
+        </ul>
+      </div>
+    </div>
+    <p class="note">Los precios pueden actualizarse. Los valores publicados en esta página son los vigentes.</p>
+  </div>
+</section>
+
+<section class="section" id="contacto" style="text-align:center">
+  <div class="wrap">
+    <h2>¿Listo para ordenar tu negocio?</h2>
+    <p class="sub">Escribinos y te ayudamos a empezar hoy mismo.</p>
+    <a class="btn" href="https://wa.me/549XXXXXXXXXX?text=Hola!%20Quiero%20info%20de%20Appio%20POS" target="_blank">📱 Consultar por WhatsApp</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>© 2026 Appio POS — Sistema de gestión de ventas</p>
+    <p style="margin-top:6px">appiopos.com.ar</p>
+  </div>
+</footer>
+
+</body>
+</html>
