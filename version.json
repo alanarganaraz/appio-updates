@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
+  "version": "4.0.0",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "F2998691F08DB0006A933C570C189882C776FA1FC3F7435BC8E97F3476207056",
-  "notas": "- Productos por peso con costo y descuentos por gramaje.\n- Huevos con precios por unidad, media docena, docena y maple.\n- Ganancia de huevos y por peso reflejada en los reportes.\n- Más vendidos ahora incluye huevos y productos por peso.\n- Alta rápida de productos escaneando un código nuevo.\n- Escáner más confiable en la pantalla de ventas.\n- La app se abre una sola vez.\n- Términos y Condiciones en Configuración.\n- Mejoras visuales y correcciones generales."
+  "sha256": "A058CF17D14FC8CA506C78032B8B3C26D5248649CC4179BF768DAFAA78F3B90F",
+  "notas": "- NUEVO: Fiado / cuenta corriente de clientes (deudas, pagos, WhatsApp).\n- Ventas: podés fiar una venta y elegir el cliente en el momento.\n- Compras: pago diferido y en cuotas, eligiendo de qué día de caja sale la plata.\n- Reportes: nueva vista de ventas en fiado sin cobrar.\n- Devoluciones más justas según cómo se cobró la venta.\n- Mejoras de seguridad y estabilidad.\n- Correcciones varias y mensajes más claros."
 }

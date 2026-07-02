@@ -1,5 +1,19 @@
 # Detalle de updates
 
+## RELEASE v4.0.0
+📅 26/06/2026
+
+- NUEVO: Fiado / cuenta corriente de clientes (deudas, pagos, recordatorio por WhatsApp).
+- Ventas: podés fiar una venta y elegir/crear el cliente en el momento del cobro.
+- Compras: pago diferido y en cuotas, eligiendo de qué día de caja sale la plata.
+- Reportes: nueva vista de "ventas en fiado" sin cobrar.
+- Devoluciones más justas (según si la venta fue cobrada o fiada).
+- Mejoras de seguridad en la validación de licencias.
+- Estados "actualmente no hay..." en las pantallas vacías.
+- Correcciones varias (filtro de compras, textos, alineaciones).
+
+---
+
 ## RELEASE v3.0.0
 📅 26/06/2026
 
