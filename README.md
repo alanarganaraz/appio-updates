@@ -1,5 +1,13 @@
 # Detalle de updates
 
+## RELEASE v5.0.1
+📅 02/07/2026
+
+- Backup en la nube (plan FULL): corregido y funcionando.
+- Mejoras menores.
+
+---
+
 ## RELEASE v5.0.0
 📅 02/07/2026
 

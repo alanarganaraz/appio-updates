@@ -1,6 +1,6 @@
 {
-  "version": "5.0.0",
+  "version": "5.0.1",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "D908B1A09FABC7504A959B94BB9F20BEAEEF322CC5A64D65B9FB6A57918DD216",
-  "notas": "- NUEVO (plan FULL): respaldo automático de tu negocio en la nube, todos los días.\n- La app ahora muestra tu plan (FULL / BÁSICO) en Configuración.\n- Mejoras de seguridad en la validación de licencias.\n- Correcciones y mejoras generales."
+  "sha256": "0A20CCD99CED5568C11CB04B0C0DD640A61763958F25DAB3C223D0C91BD3A860",
+  "notas": "- Backup en la nube (plan FULL): corregido y funcionando.\n- Mejoras menores."
 }
