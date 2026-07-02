@@ -1,5 +1,13 @@
 # Detalle de updates
 
+## RELEASE v6.0.2
+📅 02/07/2026
+
+- Corregido el respaldo en la nube (plan FULL): ya funciona correctamente.
+- Mejoras menores.
+
+---
+
 ## RELEASE v6.0.1
 📅 02/07/2026
 

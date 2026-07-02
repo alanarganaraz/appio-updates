@@ -1,6 +1,6 @@
 {
-  "version": "6.0.1",
+  "version": "6.0.2",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "F5240E8C08662A88F99B93A4A9ABD4C8DE9401A83B59FFBCADDF0DE94CC867DE",
-  "notas": "- Plan FULL: nuevo botón 'Hacer copia ahora' en Configuración para respaldar cuando quieras.\n- Mejoras en el respaldo en la nube.\n- Correcciones menores."
+  "sha256": "AE8AF040DA8C79FB64470C5F87764012FD19BDA49703A17482C558CA0C50A93D",
+  "notas": "- Corregido el respaldo en la nube (plan FULL): ya funciona correctamente.\n- Mejoras menores."
 }
