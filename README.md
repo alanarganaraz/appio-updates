@@ -1,5 +1,13 @@
 # Detalle de updates
 
+## RELEASE v6.0.3
+📅 02/07/2026
+
+- Corregido: la base de datos podía dañarse si una actualización se instalaba justo al abrir la app; ahora se guardan los datos antes de actualizar.
+- Sacado el botón manual de copia de seguridad: el respaldo automático diario ya funciona solo, sin necesidad de tocar nada.
+
+---
+
 ## RELEASE v6.0.2
 📅 02/07/2026
 

@@ -1,6 +1,6 @@
 {
-  "version": "6.0.2",
+  "version": "6.0.3",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "AE8AF040DA8C79FB64470C5F87764012FD19BDA49703A17482C558CA0C50A93D",
-  "notas": "- Corregido el respaldo en la nube (plan FULL): ya funciona correctamente.\n- Mejoras menores."
+  "sha256": "F4877E41526AA5516523B5C952DEA778EB73E9958EA932749A98023801AB063A",
+  "notas": "- Corregido: la base de datos podía dañarse si una actualización se instalaba justo al abrir la app; ahora se guardan los datos antes de actualizar.\n- Sacado el botón manual de copia de seguridad: el respaldo automático diario ya funciona solo, sin necesidad de tocar nada."
 }
