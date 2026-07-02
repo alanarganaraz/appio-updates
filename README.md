@@ -1,5 +1,15 @@
 # Detalle de updates
 
+## RELEASE v5.0.0
+📅 02/07/2026
+
+- NUEVO (plan FULL): respaldo automático de tu negocio en la nube, todos los días.
+- La app ahora muestra tu plan (FULL / BÁSICO) en Configuración.
+- Mejoras de seguridad en la validación de licencias.
+- Correcciones y mejoras generales.
+
+---
+
 ## RELEASE v4.0.0
 📅 26/06/2026
 

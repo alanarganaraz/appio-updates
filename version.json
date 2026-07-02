@@ -1,6 +1,6 @@
 {
-  "version": "4.0.0",
+  "version": "5.0.0",
   "url": "https://alanarganaraz.github.io/appio-updates/AppioApp_Instalador.exe",
-  "sha256": "A058CF17D14FC8CA506C78032B8B3C26D5248649CC4179BF768DAFAA78F3B90F",
-  "notas": "- NUEVO: Fiado / cuenta corriente de clientes (deudas, pagos, WhatsApp).\n- Ventas: podés fiar una venta y elegir el cliente en el momento.\n- Compras: pago diferido y en cuotas, eligiendo de qué día de caja sale la plata.\n- Reportes: nueva vista de ventas en fiado sin cobrar.\n- Devoluciones más justas según cómo se cobró la venta.\n- Mejoras de seguridad y estabilidad.\n- Correcciones varias y mensajes más claros."
+  "sha256": "D908B1A09FABC7504A959B94BB9F20BEAEEF322CC5A64D65B9FB6A57918DD216",
+  "notas": "- NUEVO (plan FULL): respaldo automático de tu negocio en la nube, todos los días.\n- La app ahora muestra tu plan (FULL / BÁSICO) en Configuración.\n- Mejoras de seguridad en la validación de licencias.\n- Correcciones y mejoras generales."
 }
